@@ -1,0 +1,20 @@
+{
+	"format": 2,
+	"id": "debug-menu",
+	"name": "I-5 Debug Menu",
+	"version": "1.0.0",
+	"author": "ParadoxEpoch",
+	"description": "Restores the retail I-5 Debug Menu",
+	"license": "MIT",
+	"api": "1.0",
+	"games": {
+		"rac1": [
+			"pal",
+			"ntsc"
+		]
+	},
+	"hooks": [
+		"Pad_ProcessReport",
+		"Hero_TakeDamage"
+	]
+}
