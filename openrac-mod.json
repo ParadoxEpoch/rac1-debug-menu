@@ -1,10 +1,10 @@
 {
 	"format": 2,
 	"id": "debug-menu",
-	"name": "I-5 Debug Menu",
-	"version": "1.0.0",
+	"name": "Restored Debug Menu",
+	"version": "1.0.1",
 	"author": "ParadoxEpoch",
-	"description": "Restores the retail I-5 Debug Menu",
+	"description": "Restores the trigger for the game's leftover debug menu",
 	"license": "MIT",
 	"api": "1.0",
 	"games": {
